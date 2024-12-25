@@ -16,3 +16,13 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
+
+## Frameworks and Libraries
+<p>
+   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
+   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"></a>
+   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"></a>
+   <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?logo=react&logoColor=black"></a>
+</p>
