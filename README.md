@@ -54,5 +54,5 @@
   <a href="https://github.com/Yogesh-Krishna-Chavan/Yogesh-Krishna-Chavan/blob/main/README.md"><img alt="Github" title="Yogesh Chavan Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/share/1AhSwpnydQ/?mibextid=wwXIfr"><img alt="Facebook" title="Yogesh Chavan FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/yogesh_krishna_chavan/profilecard/?igsh=MmN5OGdpc210dGtm"><img alt="Instagram" title="Yogesh Chavan Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:yogeshkrishnachavan@gmail.com"><img alt="Gmail" title="Yogesh Chavan Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="mailto:yogeshkrishnachavan@gmail.com"><img alt="Gmail" title="Yogesh Chavan Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/919405636464" target="_blank"><img alt="WhatsApp" title="Yogesh Chavan WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
