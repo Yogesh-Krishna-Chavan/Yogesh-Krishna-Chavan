@@ -3,7 +3,7 @@
 <p><img align="right" height="300" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 ## I'm an Software Engineer at Sunbeam
-
+<p><img align="right" height="300" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 - 👨‍💻 I’m currently working on Fullstack technologies. 
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 📊 Future Goals: Learn more technologies - Never stop creating new ideas.
