@@ -26,3 +26,11 @@
    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"></a>
    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?logo=react&logoColor=black"></a>
 </p>
+
+## Operating Systems
+<p>
+	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
+	<a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white"></a>
+</p>
+
