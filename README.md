@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Yogesh!](https://github.com/Yogesh-Krishna-Chavan/)
 
-<p><img align="right" height="300" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" height="300" width="400" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 ## I'm an Software Engineer at Sunbeam
 
